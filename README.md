@@ -1,5 +1,5 @@
 # Eggpractica
--Benjamín Cortés
--sebastian alquinta
+- Benjamín Cortés
+- sebastian alquinta
 - Benjamín Ríos -- facilitador
 - Noelia Muñoz
